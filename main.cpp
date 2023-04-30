@@ -21,7 +21,7 @@ int a[12], i;
     for (i = 0; i < 12; i++)
     {
         a[i] = rand() % 41-20;
-        cout<< a[i]<<" ";
+        cout<< a[i]<<"  ";
     } cout<<"\n";
 max(a,12);
 
